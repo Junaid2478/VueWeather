@@ -1,4 +1,5 @@
-# bolserweather
+
+This App utilizes the open weather API to display the weather using geolocation. This app also calculates the days of summer an individual has lived through and performs various calculations to display the API data in Imperial units of measurement. The purpose of this app was to experiment with the Vue framework to create a responsive weather app that scales to different screen sizes; which was accomplished successfully.
 
 ## Project setup
 ```
